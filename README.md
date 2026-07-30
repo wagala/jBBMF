@@ -29,7 +29,7 @@ where $\circ$ denotes the Boolean matrix product.
 Dependence between diagnosis and relapse is modeled through
 
 $$
-\gamma_{11}=P\!\left(W_{2,kr}=1 \midW_{1,kr}=1\right),
+\gamma_{11}=P\!\left(W_{2,kr}=1 \mid W_{1,kr}=1\right),
 $$
 
 and
